@@ -1,7 +1,7 @@
 .reservation {
   padding: 100px 0 120px;
   background-color: #d9e7ff;
-  background-image: url(/images/background_reservation.svg);
+  background-image: url(../images/background_reservation.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -95,7 +95,7 @@
   width: 20px;
   height: 20px;
   background-color: #2f80ed;
-  background-image: url("/images/check.svg");
+  background-image: url("../images/check.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 70%;
