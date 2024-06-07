@@ -10,7 +10,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Flat BEM file structure
 - A custom form
 - CSS animation and transform
+- Manipulating border properties to create simple shapes and lines
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add animation on header page to grab user's attention
