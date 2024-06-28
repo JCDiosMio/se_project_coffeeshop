@@ -1,5 +1,7 @@
 # Triple Peaks Coffee Shop
 
+!! Visit the website here --> https://jcdiosmio.github.io/se_project_coffeeshop/
+
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
 ## Project features
